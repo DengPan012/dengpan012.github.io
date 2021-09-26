@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/HwithBrevebelow.png/440px-HwithBrevebelow.png)
 OK
+![Video](https://www.youtube.com/watch?v=JPtiRqOq7Rg)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
