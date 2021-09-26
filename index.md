@@ -30,7 +30,7 @@ OK
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-{% vimeoPlayer.html id=page.vimeoId %}
+{% youtubePlayer.html id = JPtiRqOq7Rg %}
 
 ### Jekyll Themes
 
