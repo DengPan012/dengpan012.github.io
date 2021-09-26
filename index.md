@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://twitter.com/DengPan18) and ![Image](https://pbs.twimg.com/profile_images/1416593708049321988/eEf7fpBg_400x400.jpg)
+[Link](url = https://twitter.com/DengPan18) and ![Image](scr = "https://pbs.twimg.com/profile_images/1416593708049321988/eEf7fpBg_400x400.jpg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
