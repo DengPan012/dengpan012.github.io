@@ -30,7 +30,11 @@ OK
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-{% include youtubePlayer.html id = page.JPtiRqOq7Rg %}
+---
+youtubeId: JPtiRqOq7Rg
+---
+
+{% include youtubePlayer.html id = page.youtubeId %}
 
 ### Jekyll Themes
 
