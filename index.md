@@ -24,7 +24,5 @@ I also had other experiences, like working with [Dr. Oriel FeldmanHall](http://w
 After graduatation, I work currently as a research assistant with [Dr. Matthew Rushworth](https://www.psy.ox.ac.uk/team/matthew-rushworth) investigating social learning during decision making. I am interested in how the global reward states of the environment (poor/rich) modulate our learning about others’ social characters and their potential neural mechanisms.
 
 
-
-
 ## Favorite words
 > ***"Nothing is to be feared, only to be understood."*** by Maria Curie.
