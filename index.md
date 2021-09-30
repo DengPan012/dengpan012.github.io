@@ -6,6 +6,7 @@
 ### Links: 【**[CV](https://drive.google.com/file/d/1UOVdEJ-73dayJyEYB4PHvwTYgMKl3LDk/view)**】 【**[Email](mailto:pandeng012@gmail.com)**】 【**[GitHub](https://github.com/DengPan012)**】 【**[YouTube](https://www.youtube.com/channel/UCdZZReasw8_vSxyNRPIsbQQ/videos)**】 【**[Twitter](https://twitter.com/DengPan18)**】  
   
   
+  
 # Biography
 *‘Social decision-making research is like playing games!’* I said excitedly one night, after sitting four hours in my chair analyzing data. As a biology major at Peking University, I accidentally walked into a classroom teaching *Game Theory*. I was fascinated by how simple mathematics can capture our complex behaviors. After taking this course, I realized that besides the *biological nature*, I also cared about the *social nature* of human beings. I decided to change my major to Psychology and embarked on an exciting journey of social decision-making research.
 
