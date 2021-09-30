@@ -1,6 +1,6 @@
 ![Deng.jpeg](https://i.loli.net/2021/09/30/IQ1enLEGduXT6rU.jpg)
 
-*(third-person)* **Deng received his BS in psychological and cognitive sciences from Peking University (PKU), Beijing, China. He currently works as a research assistant with [Dr. Matthew Rushworth](https://www.psy.ox.ac.uk/team/matthew-rushworth) studying social learning in decision making. His research interests focus on understanding the neural and computational mechanisms underlying our social decisions. Outside of research, he enjoys reading novels, swimming, and mountain climbing. Actually, his name in Chinese means ‘climbing’.**
+#### *(third-person)* Deng received his BS in psychological and cognitive sciences from Peking University (PKU), Beijing, China. He currently works as a research assistant with [Dr. Matthew Rushworth](https://www.psy.ox.ac.uk/team/matthew-rushworth) studying social learning in decision making. His research interests focus on understanding the neural and computational mechanisms underlying our social decisions. Outside of research, he enjoys reading novels, swimming, and mountain climbing. Actually, his name in Chinese means ‘climbing’.
 
 **[CV](https://drive.google.com/file/d/1UOVdEJ-73dayJyEYB4PHvwTYgMKl3LDk/view)**    
 **[Emial](mailto:pandeng012@gmail.com)**    
