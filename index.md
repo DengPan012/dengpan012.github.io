@@ -1,5 +1,18 @@
 ![Deng.jpeg](https://i.loli.net/2021/09/30/IQ1enLEGduXT6rU.jpg)
 
+*(third-person)* Deng received his BS in psychological and cognitive sciences from Peking University (PKU), Beijing, China. He currently works as a research assistant with [Dr. Matthew Rushworth](https://www.psy.ox.ac.uk/team/matthew-rushworth) studying social learning in decision making. His research interests focus on understanding the neural and computational mechanisms underlying our social decisions. Outside of research, he enjoys reading novels, swimming, and mountain climbing. Actually, his name in Chinese means ‘climbing’.
+
+[CV](https://drive.google.com/file/d/1UOVdEJ-73dayJyEYB4PHvwTYgMKl3LDk/view) [Emial](mailto:pandeng012@gmail.com)
+
+
+#Biography
+
 **‘Social decision-making research is like playing games!’** I said excitedly one night, after sitting four hours in my chair analyzing data.
 
-As a biology major at Peking University, I accidentally walked into a classroom teaching ***Game Theory***. I was fascinated by how simple mathematics can capture our complex behaviors. After taking this course, I realized that besides the **biological nature**, I also cared about the **social nature** of human beings. I started to wonder: **What are the neural mechanisms underlying our social decisions?**
+As a biology major at Peking University, I accidentally walked into a classroom teaching ***Game Theory***. I was fascinated by how simple mathematics can capture our complex behaviors. After taking this course, I realized that besides the **biological nature**, I also cared about the **social nature** of human beings. 
+
+**What are the neural and computational mechanisms underlying our social decisions?** I decided to change my major to Psychology and embarked on an exciting journey of social decision-making research.
+
+During my undergraduate years, I worked with [Dr. Jian Li](https://scholar.google.com/citations?user=IBegxO0AAAAJ&hl=zh-CN&oi=sra) and [Dr. Lusha Zhu](https://www.lushazhu.com/) researching the ***social contagion effect of risk and ambiguity***. By taking this project from idea, execution, and writing manuscripts, I sharpened my skills and gained a deeper understanding of decision-making. I also had other experiences, like working with [Dr. Oriel FeldmanHall](http://www.feldmanhalllab.com/) studying how our affective states influence social decisions. Please see my [Curriculum Vitae](https://drive.google.com/file/d/1UOVdEJ-73dayJyEYB4PHvwTYgMKl3LDk/view) for more details.
+
+After graduating from PKU, I worked as a research assistant with [Dr. Matthew Rushworth](https://www.psy.ox.ac.uk/team/matthew-rushworth) investigating social learning during decision making. I am interested in how the global reward states of the environment (poor/rich) modulate our learning about others’ social characters and their potential neural mechanisms.
