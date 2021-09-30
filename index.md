@@ -1,4 +1,4 @@
-<center>![Deng.jpeg](https://i.loli.net/2021/09/30/IQ1enLEGduXT6rU.jpg)<\center>
+![Deng.jpeg](https://i.loli.net/2021/09/30/IQ1enLEGduXT6rU.jpg)
 
 **‘Social decision-making research is like playing games!’** I said excitedly one night, after sitting four hours in my chair analyzing data.
 
