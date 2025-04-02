@@ -11,4 +11,4 @@
 
 
 ## Favorite words
-> ***"Nothing is to be feared, only to be understood."*** by Maria Curie.
+> ***"Nothing is to be feared, only to be understood."*** by Marie Curie.
