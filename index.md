@@ -5,7 +5,7 @@
 
 **Contacts: 
 [Email](mailto:deng.pan@psy.ox.ac.uk)       
-[X (Twitter)](https://twitter.com/DengPan18) 
+[X (Twitter)](https://twitter.com/DengPan18)
 [Bluesky](https://bsky.app/profile/dengpan.bsky.social)**  
   
 
